@@ -4,7 +4,7 @@
 
 title: "Home"
 subtitle: "Impassenet"  
-logo: "logo.png"
+logo: "assets/tools/logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 header: true
