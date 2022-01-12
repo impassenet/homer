@@ -150,12 +150,7 @@ services:
         tag: "kubernetes"
         url: "https://bastion.impassenet.info/"
         target: "_blank"
-      - name: "test"
-        logo: "assets/tools/sample2.png"
-        subtitle: "TEST git"
-        tag: "test"
-        url: "https://test.impassenet.info/"
-        target: "_blank" 
+
 
 
 
