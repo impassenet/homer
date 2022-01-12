@@ -123,6 +123,13 @@ services:
         tag: "Synology"
         url: "http://pandora:14640"
         target: "_blank"
+      - name: "Git Impassenet"
+        logo: "assets/tools/sample2.png"
+        subtitle: "Git Impassenet"
+        tag: "github"
+        url: "https://github.com/impassenet/"
+        target: "_blank"        
+
 
   - name: "Security"
     icon: "fas fa-cloud"
