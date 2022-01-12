@@ -147,8 +147,8 @@ services:
         url: "https://bastion.impassenet.info/"
         target: "_blank"
         subtitle: "TEST git"
-        tag: "kubernetes"
-        url: "https://bastion.impassenet.info/"
+        tag: "test"
+        url: "https://test.impassenet.info/"
         target: "_blank" 
 
 
