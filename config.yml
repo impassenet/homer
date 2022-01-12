@@ -82,6 +82,8 @@ services:
       - name: "Music"
         logo: "assets/tools/sample2.png"
         subtitle: "Lidarr musics"
+        type: "Lidarr"
+        apikey: "64bda76c7f6a4a59b20239a5daeaf8ac"
         tag: "kubernetes"
         url: "http://music.impassenet.lan/"
         target: "_blank"
