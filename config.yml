@@ -50,6 +50,8 @@ services:
       - name: "Series"
         logo: "assets/tools/sample.png"
         subtitle: "Sonarr"
+        type: "Sonarr"
+        apikey: "c32b0903bb0f4a8f8310e1a7d5e6739b"
         tag: "kubernetes"
         url: "http://series.impassenet.lan/"
         target: "_blank" 
