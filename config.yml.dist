@@ -159,13 +159,11 @@ services:
         url: "https://bastion.impassenet.info/"
         target: "_blank"
 
-
-
-- name: "Pi-hole"
-  logo: "assets/tools/sample.png"
-  # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
-  url: "http://dns.impassenet.lan/admin"
-  type: "PiHole"
+      - name: "Pi-hole"
+        logo: "assets/tools/sample.png"
+        # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
+        url: "http://dns.impassenet.lan/admin"
+        type: "PiHole"
 
 
         
