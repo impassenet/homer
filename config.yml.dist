@@ -94,7 +94,7 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "Proxmox"
-        logo: "assets/tools/proxmox_logo.png"
+        logo: "assets/tools/sample2.png"
         subtitle: "Virtualisation"
         tag: "Proxmox"
         url: "https://pve.impassenet.lan:8006/"
