@@ -165,5 +165,16 @@ services:
         url: "http://dns.impassenet.lan/admin"
         type: "PiHole"
 
-
+services:
+  - name: "devops"
+    icon: "fas fa-cloud"
+    items:
+      - name: "gogs"
+        logo: "assets/tools/sample.png"
+        subtitle: "gogs impassenet.lan"
+        #type: "Sonarr"
+        #apikey: "7dfa0a39f27f4ba2ac13601602e7f3f9"
+        tag: "kubernetes"
+        url: "http://gogs.impassenet.lan/"
+        target: "_blank" 
         
