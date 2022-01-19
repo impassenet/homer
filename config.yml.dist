@@ -165,7 +165,7 @@ services:
         url: "http://dns.impassenet.lan/admin"
         type: "PiHole"
 
-services:
+
   - name: "devops"
     icon: "fas fa-cloud"
     items:
