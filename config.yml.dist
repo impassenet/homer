@@ -97,7 +97,7 @@ services:
         logo: "assets/tools/sample2.png"
         subtitle: "Virtualisation"
         tag: "Proxmox"
-        url: "https://pve.impassenet.lan:8006/"
+        url: "https://atlas.impassenet.lan:8006/"
         target: "_blank" 
       - name: "Nas"
         logo: "assets/tools/sample2.png"
