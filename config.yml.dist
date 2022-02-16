@@ -171,6 +171,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "gogs lan"
         tag: "kubernetes"
-        url: "http://gogs.impassenet.lan/"
+        url: "https://gogs.impassenet.info/"
         target: "_blank" 
         
