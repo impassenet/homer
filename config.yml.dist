@@ -169,7 +169,7 @@ services:
     items:
       - name: "gogs"
         logo: "assets/tools/sample.png"
-        subtitle: "gogs lan"
+        subtitle: "gogs"
         tag: "kubernetes"
         url: "https://gogs.impassenet.info/"
         target: "_blank" 
